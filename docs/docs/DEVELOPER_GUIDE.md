@@ -45,5 +45,10 @@ poetry config pypi-token.pypi ...
 ## Current Status
 
 <!-- {cts} COVERAGE -->
+| File                      |   Statements |   Missing |   Excluded | Coverage   |
+|---------------------------|--------------|-----------|------------|------------|
+| `configapult/__init__.py` |           16 |         0 |         24 | 100.0%     |
+| **Totals**                |           16 |         0 |         24 | 100.0%     |
 
+Generated on: 2024-06-16
 <!-- {cte} -->

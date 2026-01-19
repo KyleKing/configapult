@@ -15,7 +15,7 @@ extends_calcipy: false
 minimum_python: 3.9.13
 minimum_python_short: '3.9'
 package_name_py: configapult
-project_description: Catapult templated configuration across arbitrary directories
+project_description: Catapult templated configuration
 project_name: configapult
 repository_namespace: kyleking
 repository_provider: https://github.com
